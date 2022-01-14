@@ -31,7 +31,7 @@ function hideContent() {
 closeNewCarInput();
 
 // TODO db connection
-var baseUri = "http://localhost:3000";
+var baseUri = "https://crazy-parking.herokuapp.com";
 var baseUrl = "/api/v0/cars/";
 
 // get all cars
